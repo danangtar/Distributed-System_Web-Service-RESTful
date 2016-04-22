@@ -23,6 +23,7 @@ for freq in hasil1:
 
 hasil2 = sorted(hasil2.items(), key=lambda x: x[1], reverse=True)
 
+
 i = 0
 while i < 10:
     print hasil2[i]
